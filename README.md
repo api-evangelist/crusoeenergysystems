@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crusoeenergysystems is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/crusoeenergysystems
+Crusoe Energy Systems provides next‑gen AI‑optimized cloud infrastructure powered by clean, stranded energy. The company builds vertically integrated data centers that combine renewable power generation with high‑performance GPU compute, delivering scalable AI workloads with lower cost and carbon footprint. Founded in 2018, Crusoe serves enterprises seeking sustainable, high‑throughput AI compute across its global edge zones.
+
+**Areas:** Company · Artificial Intelligence · Cloud · Sustainable · Data Center
+
+## Crusoeenergysystems on APIs.io
+
+Everything profiled for Crusoeenergysystems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crusoeenergysystems/](https://apis.io/providers/crusoeenergysystems/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Crusoe Cloud API](https://apis.io/apis/crusoeenergysystems/crusoe-cloud-api/) — API Gateway exposing publicly available endpoints for Crusoe Cloud products.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Crusoeenergysystems Webhooks](https://apis.io/asyncapis/crusoeenergysystems/crusoeenergysystems-webhooks/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Crusoeenergysystems Openapi Overlay](https://apis.io/overlays/crusoeenergysystems/crusoeenergysystems-openapi-overlay/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Crusoeenergysystems Domain Security](https://apis.io/security/crusoeenergysystems/crusoeenergysystems-domain-security/)
+- [Crusoeenergysystems Vulnerability Disclosure](https://apis.io/security/crusoeenergysystems/crusoeenergysystems-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Crusoeenergysystems Plans Pricing](https://apis.io/plans/crusoeenergysystems/crusoeenergysystems-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.crusoe.ai)
+- [Documentation](https://docs.crusoe.ai/)
+- [Getting started](https://docs.crusoecloud.com/tags/quickstart)
+- [API reference](https://docs.crusoe.ai/reference/mcp-server/index.html)
+- [Pricing](https://www.crusoe.ai/cloud/pricing)
+- [Blog](https://www.crusoe.ai/resources/blog)
+- [Trust centre](https://trust.crusoe.ai/)
+- [GitHub](https://github.com/crusoecloud)
+
+## API Evangelist rating
+
+**Kin Score 41.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.3 |
+| Contract quality | 39.0 |
+| Contract governance | 4.5 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 50.0 |
+
+**Agent readiness 20.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 20.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/crusoeenergysystems/](https://apis.io/providers/crusoeenergysystems/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crusoeenergysystems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crusoeenergysystems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
